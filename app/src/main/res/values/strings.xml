@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="game_title">Jogo da Velha</string>
+    <string name="player_x_turn">Vez do Jogador X</string>
+    <string name="player_o_turn">Vez do Jogador O</string>
+    <string name="player_x_wins">Jogador X Venceu! 🎉</string>
+    <string name="player_o_wins">Jogador O Venceu! 🎉</string>
+    <string name="game_draw">Empate! 🤝</string>
+    <string name="reset_game">Reiniciar Jogo</string>
+    <string name="score_x">X: </string>
+    <string name="score_o">O: </string>
+</resources>

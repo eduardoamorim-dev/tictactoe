@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryDark">#2980B9</color>
+    <color name="colorAccent">#E74C3C</color>
+
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_dark">#34495E</color>
+
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#34495E</color>
+    <color name="text_light">#BDC3C7</color>
+
+    <color name="player_x_color">#E74C3C</color>
+    <color name="player_o_color">#3498DB</color>
+    <color name="winner_highlight">#F39C12</color>
+    <color name="winner_border">#E67E22</color>
+
+    <color name="cell_background">#FFFFFF</color>
+    <color name="cell_border">#BDC3C7</color>
+    <color name="cell_pressed">#E8E8E8</color>
+</resources>
